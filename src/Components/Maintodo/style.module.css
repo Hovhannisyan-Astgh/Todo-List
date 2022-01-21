@@ -1,0 +1,7 @@
+.todolist input{
+    width: 446px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
